@@ -1,0 +1,66 @@
+body {
+	font-family: sans-serif;
+	margin: 0;
+}
+
+nav {
+	background: rgb(236, 129, 41);
+	padding: 1rem;
+}
+
+nav a {
+	color: black;
+	margin-right: 10px;
+}
+
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 1rem;
+}
+
+.container a {
+	padding-right: 2em;
+	color: green;
+}
+
+.container a h3 {
+  color: black;
+  text-decoration: none;
+}
+
+.card {
+	background-color: rgb(252, 227, 193);
+	padding: 2em;
+	margin-bottom: 0.5em;
+}
+
+.container form {
+	background-color: rgb(252, 227, 193);
+	padding: 2em;
+}
+
+.container form label {
+	margin-bottom: 1em;	
+}
+
+select {
+	padding-right: 1em;
+	margin-bottom: 12em;
+}
+
+.container form input {
+	padding-right: 1em;
+	margin: 0 1em 1em;
+}
+
+.container button {
+	background-color: rgb(236, 81, 81);
+	padding: 0.2em;
+}
+
+.messagecontainer {
+	color: red;
+}
+
+
