@@ -1,0 +1,21 @@
+{
+  "name": "helisapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "axios": "^1.2.2",
+    "next": "13.1.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-strap": "0.0.1",
+    "reactstrap": "^9.1.5",
+    "strapi": "^3.6.11"
+  }
+}
