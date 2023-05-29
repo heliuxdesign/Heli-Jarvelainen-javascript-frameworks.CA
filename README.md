@@ -9,17 +9,17 @@ The app has the following paths:
 
 Please, don`t thorow away your time to open this assignment. Because I study alongside work, there was some times dificulties to find time to schoolwork an school  assignments. During this assignment I hade a really hectic time at work, and I had almost no time to use on this assignment. It`s the wors assignemnt I have done during my studies. 
 
-## Clone the repository
-## Install Node.js modules
+## 1. Clone the repository
+## 2. Install Node.js modules
    npm install
-## Start the project
+## 3. Start the project
    npm run dev
-## Strapi
+## 4. Strapi
   To get your Strapi up and running run the following commands:
   - md my-strapi-folder
   - cd my-strapi-folder
   - npx create-strapi-app@latest .
-## Create the "Users" and "Flowers" content types
+## 5. Create the "Users" and "Flowers" content types
 Create the following content types with the specified fields:
 
 For the "Users" content type:
