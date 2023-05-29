@@ -37,6 +37,12 @@ For the "Flowers" content type:
 - Field Name: Nextapp, Type: Text
 - Field Name: Image, Type: Media
 
+For the "my-flower" content type:
+- Field Name: Name, Type: Text
+- Field Name: Nextapp, Type: Text
+- Field Name: Description, Type: Text
+
+
 
 
 
