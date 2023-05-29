@@ -7,7 +7,7 @@ The app has the following paths:
 - "/login"
 - "/admin" -The admin path won`t appear in the navigation.
 
-Please, don`t thorow away your time to open this assignment. Because I study alongside work, there was some times dificulties to find time to school assignment. During this assignment I hade a really hectic time at work, and I had almost no time to use on this assignment. It`s the wors assignemnt I have done during my studies. 
+Please, don`t thorow away your time to open this assignment. Because I study alongside work, there was some times dificulties to find time to schoolwork an school  assignments. During this assignment I hade a really hectic time at work, and I had almost no time to use on this assignment. It`s the wors assignemnt I have done during my studies. 
 
 ## Clone the repository
 ## Install Node.js modules
