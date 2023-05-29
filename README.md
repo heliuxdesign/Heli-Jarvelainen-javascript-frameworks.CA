@@ -2,6 +2,8 @@
 ## Clone the repository
 ## Install Node.js modules
    npm install
+## install strapi
+   npm install strapi
 ## Start the project
    npm run dev
 
