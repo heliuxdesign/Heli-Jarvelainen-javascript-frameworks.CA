@@ -1,3 +1,4 @@
+<h1> JS Frameworks Course Assignment </h1>
 In this school assignment I created a Next.js app.
 For the login functionality I used Strapi installation.
 The app has the following paths:
