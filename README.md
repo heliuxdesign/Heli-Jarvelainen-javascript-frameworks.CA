@@ -1,5 +1,5 @@
 ## JS Frameworks Course Assignment 
-In this school assignment I created a Next.js app.
+In this school assignment I created a Next.js app, and I hvae used REST API calls.
 For the login functionality I used Strapi installation.
 The app has the following paths:
 - "/"
