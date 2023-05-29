@@ -2,7 +2,13 @@ In this school assignment I created a Next.js app.
 For the login functionality I used Strapi installation.
 The app has the following paths:
 - "/"
-- 
+- "/detail/:param"
+- "/contact"
+- "/login"
+- "/admin" -The admin path won`t appear in the navigation.
+
+Please, don`t thorow away your time to open this assignment. Because I`m working at the same time i studie there was some times dificulties tofin time to school assignment. During this assignment I hade a really hectic time at work, and I had almost no time to use on this assignment. It`s the wors assignemnt I have done during my studies. 
+
 ## Clone the repository
 ## Install Node.js modules
    npm install
@@ -27,6 +33,7 @@ For the "Flowers" content type:
 
 - Field Name: Id, Type: UID
 - Field Name: Name, Type: Text
+- Field Name: Nextapp, Type: Text
 - Field Name: Image, Type: Media
 
 
